@@ -21,8 +21,7 @@
   "homepage": "https://github.com/teqnickels/youtube#readme",
   "devDependencies": {
     "jquery": "^3.2.1",
-    "nodemon": "^1.14.8",
-    "webpack-dev-server": "^1.14.0"
+    "nodemon": "^1.14.8"
   },
   "dependencies": {
     "babel-core": "^6.2.1",
@@ -35,6 +34,7 @@
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-router": "^4.2.0",
+    "webpack-dev-server": "^1.14.0",
     "webpack": "^1.12.9",
     "youtube-api-search": "0.0.5"
   }
