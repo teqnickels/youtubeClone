@@ -1,17 +1,20 @@
 html,
 body {
   height: 100%;
+
 }
 
 .container {
   min-width: 100vw !important;
   margin: 0;
-  min-height: 100%;
+  /* min-height: 100%; */
   position: relative;
   padding: 0 !important;
+
 }
 
 body {
+
   background-color: #f1f1f1 !important;
 }
 
@@ -43,7 +46,7 @@ body {
 /* main video */
 
 .video-item img {
-  mad-width: 64px;
+  max-width: 64px;
 }
 
 .video-detail .details {
@@ -52,6 +55,7 @@ body {
   border: 1px solid #ddd;
   border-radius: 4px;
   background-color: #fff;
+  position: relative;
 }
 
 .video-detail-title {
@@ -79,11 +83,14 @@ body {
 /* Footer */
 
 .footer-distributed {
-  background-color: #292c2f;
-  position: absolute;
+  background-color: #ff0000;
+  color: #fff;
+  position: fixed;
+  height: 100px; 
   width: 100%;
   padding: 15px;
   bottom: 0;
+  height: 65px;
 }
 
 .footer-distributed .footer-left p {
@@ -106,6 +113,10 @@ body {
   color: #ffffff;
   padding-right: 20px;
   text-decoration: none;
+}
+
+p {
+  color: #fff !important; 
 }
 
 /* Footer responsiveness */
