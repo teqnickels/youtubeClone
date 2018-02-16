@@ -1,7 +1,7 @@
 {
   "name": "youtubeclone",
   "version": "1.0.0",
-  "description": "A Youtube clone built with ReactJS.",
+  "description": "a youtube clone built with ReactJS.",
   "main": "index.js",
   "scripts": {
     "start:dev": "nodemon ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SomayaB/reacTube.git"
+    "url": "git+https://github.com/teqnickels/youtubeclone.git"
   },
-  "author": "@SomayaB",
+  "author": "teqnickels",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/teqnickels/reacTube/issues"
+    "url": "https://github.com/teqnickels/youtubeclone/issues"
   },
-  "homepage": "https://github.com/teqnickels/reacTube#readme",
+  "homepage": "https://github.com/teqnickels/youtube#readme",
   "devDependencies": {
     "jquery": "^3.2.1",
     "nodemon": "^1.14.8",
