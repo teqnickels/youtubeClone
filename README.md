@@ -3,7 +3,7 @@
 ## Project Overview
 
 youtubeClone is a learning project that allows a user to search for videos using the Youtube API. 
-
+![alt text](youtubeClone/Screenshot 2018-07-31 at 6.59.00 AM.png)
 My goal was to learn about: 
   - React
   - Youtube API
